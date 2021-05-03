@@ -1,5 +1,5 @@
 # dicee-webpage-master
-Simple one webpage dice roll game.
+Simple one webpage dice roll game. Refresh the page or click 'refresh page' on the webpage for another dice roll.
 
 
 
